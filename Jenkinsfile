@@ -5,7 +5,7 @@ pipeline {
 
         stage('Checkout Code') {
             steps {
-                git 'https://github.com/Jadavivek/jenkins-python-project.git'
+                git 'https://github.com/Jadavivek/vivek_jenkins_mini_project.git'
             }
         }
 
